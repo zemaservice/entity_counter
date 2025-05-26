@@ -1,0 +1,9 @@
+{
+  "domain": "entity_counter",
+  "name": "Entity Counter",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "",
+  "requirements": [],
+  "codeowners": []
+}
